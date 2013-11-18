@@ -3,7 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-  api.add_files(".js", "client");
   api.add_files("codemirror.js", "client");
   api.add_files("codemirror.css", "client");
   api.add_files("continuelist.js", "client");
