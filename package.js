@@ -17,6 +17,8 @@ Package.on_use(function (api) {
   api.add_files("show-hint.css", "client");
   api.add_files("editorView.html", "client");
   api.add_files("editorView.js", "client");
+  api.add_files("editLLMD.html", "client");
+  api.add_files("editLLMD.js", "client");
 
   if (api.export) 
     api.export('CodeMirror');

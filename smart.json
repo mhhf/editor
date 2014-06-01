@@ -6,5 +6,6 @@
 	"author": "Denis Erfurt <denis.erfurt@gmail.com>",
   "git": "git@bitbucket.org:liquidlearningdev/editor.git",
   "packages": {
+    "marked":{}
   }
 }
